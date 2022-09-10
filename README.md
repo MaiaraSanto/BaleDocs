@@ -1,7 +1,7 @@
 # BaleDocs
 
 Ainda em desenvolvimento
-Um bot que ao você mandar uma tecnologia em algum canal da comunidade do Discord, ele responderá com a sua documentação 🤓
+Um bot que ao você mandar uma tecnologia, ele responderá com a sua documentação 🤓
 
 Configurando o ambiente de desenvolvimento
 Estou utilizando a versão 16.13.1 do Node.js
